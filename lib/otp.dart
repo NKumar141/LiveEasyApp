@@ -5,8 +5,6 @@ import '../src/Screens/login.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'main2.dart';
 import 'package:flutter_otp_text_field/flutter_otp_text_field.dart';
-import 'package:flutter_recaptcha/WelcomePage.dart';
-import 'package:webview_flutter_plus/webview_flutter_plus.dart';
 
 //class app4 extends StatelessWidget {
 //final String phone;
