@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1068698477227",
+    "project_id": "login-8140b",
+    "storage_bucket": "login-8140b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068698477227:android:29b1895133617b1ed20dee",
+        "android_client_info": {
+          "package_name": "com.maxeff.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068698477227-dh67ml77tei580rbv285rdhgimlgrgmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maxeff.myapp",
+            "certificate_hash": "0000000000000000000000000000000000000000"
+          }
+        },
+        {
+          "client_id": "1068698477227-sbhucgdhr46dad14ql7rhdfh2n3uih4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb8auOmmZ4uxHqePfT39FUfybUOGwZR40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068698477227-sbhucgdhr46dad14ql7rhdfh2n3uih4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
